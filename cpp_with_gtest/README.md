@@ -1,7 +1,3 @@
-# rdiff-backup-cpp
+# gtest-cpp
 
-用cpp重写的rdiff-backup
-
-注意：
-
-- 所有代码要符合谷歌编程规范
+带有gtest的cmake模板工程
